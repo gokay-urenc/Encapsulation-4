@@ -1,0 +1,10 @@
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\bin\Debug\Encapsulation_4.exe.config
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\bin\Debug\Encapsulation_4.exe
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\bin\Debug\Encapsulation_4.pdb
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\obj\Debug\Encapsulation_4.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\obj\Debug\Encapsulation_4.Form1.resources
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\obj\Debug\Encapsulation_4.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\obj\Debug\Encapsulation_4.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\obj\Debug\Encapsulation_4.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\obj\Debug\Encapsulation_4.exe
+C:\Users\hamitgokay.urenc\source\repos\Encapsulation_4\Encapsulation_4\obj\Debug\Encapsulation_4.pdb
